@@ -96,8 +96,8 @@ $c_{ij}=a_{i1}b_{1j}+a_{i2}b_{2j}+...+a_{is}b_{sj}=\sum\limits_{k=1}^sa_{ik}b_{k
 - 施加一次对换变换，行列式的值与原来相反。
 - 行列式有两行（列）的元素成比例，行列式的值为零。
 - $|AB|=|A||B|$ 
-- $\sum\limits^n_{k=1}a_{ik}A_{jk}=\delta_{ij}D,\sum\limits^{n}_{k=1}a_{ki}A_{kj}=\delta_{ij}D,\delta_{ij}=\begin{cases}1,i=j\\0,i\neq j\end{cases}$
-- $Vandermonde$ 行列式： $\begin{array}{|ccccc|}1&1&1&...&1\\x_1&x_2&x_3&...&x_n\\.&.&.& &.\\.&.&.& &.\\.&.&.& &.\\ x_1^{n-1}&x_2^{n-1}&x_3^{n-1}&...&x_n^{n-1}\end{array}=\Pi_{1\leq i<j\leq n} (x_j-x_i)$
+- $\sum^n_{k=1}a_{ik}A_{jk}=\delta_{ij}D,\sum^{n}_{k=1}a_{ki}A_{kj}=\delta_{ij}D,\delta_{ij}=\begin{cases}1,i=j\\0,i\neq j\end{cases}$
+- $Vandermonde$ 行列式： $\begin{array}{|ccccc|}1&1&1&...&1\\ x_1&x_2&x_3&...&x_n\\.&.&.& &.\\.&.&.& &.\\.&.&.& &.\\ x_1^{n-1}&x_2^{n-1}&x_3^{n-1}&...&x_n^{n-1}\end{array}=\Pi_{1\leq i<j\leq n} (x_j-x_i)$
 - $n$ 阶（说明是方阵）矩阵可逆的充要条件是 $|A|\neq 0$ 。
 - 如果 $|A|\neq 0$ 且 $n\geq 2$ ，则 $A^{-1}=\frac{1}{|A|}A^*$ 。
 - 分块对角阵可逆的充要条件是，其每个分块阵都可逆。
