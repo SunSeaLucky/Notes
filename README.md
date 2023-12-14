@@ -1,7 +1,5 @@
 # Notes
 ## Introduction
-That's my notes git. Enjoy it here.
+That's my notes' git. Enjoy it here. 
 
-Test github md here:
-
-$\begin{array}{|ccccc|}1&1&1&...&1\\x_1&x_2&x_3&...&x_n\\.&.&.& &.\\.&.&.& &.\\.&.&.& &.\\ x_1^{n-1}&x_2^{n-1}&x_3^{n-1}&...&x_n^{n-1}\end{array}=\Pi_{1\leq i<j\leq n} (x_j-x_i)$
+Note that there seems are some problems in Github to support markdown grammar, so some formulas can **NOT** be displayed normally. I suggest that reader pull this git.
