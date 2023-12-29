@@ -301,3 +301,10 @@ $m_{ij}=\begin{cases}1,点为边的始点 \\0，不关联\\-1，点为边的终�
 ### 7.1 无向树及生成树
 
 - **最最重要的一点**：$m=n-1$，$m$ 是边数，$n$ 代表点数
+
+<script>
+MathJax = {
+tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
